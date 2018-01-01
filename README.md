@@ -18,7 +18,10 @@ MNIST来源于http://yann.lecun.com/exdb/mnist/
 
 ## bp神经网络
 `bpNN.py` 包含了运用两种不同的激励函数编写bp神经网络的代码。
-运行  `python bpNN.py` 可查看两种激励函数的错误分类率。
+
+在运行此代码前，需先运行`python data_processing.py`将数据以正确的形式储存。
+
+此后运行`python bpNN.py`可查看两种激励函数的错误分类率。
 
 ## 对比报告
 `对比报告.md` 中展示了两种不同激励函数的训练效果

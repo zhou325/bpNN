@@ -24,4 +24,4 @@ MNIST来源于http://yann.lecun.com/exdb/mnist/
 此后运行`python bpNN.py`可查看两种激励函数的错误分类率。
 
 ## 对比报告
-`对比报告.md` 中展示了两种不同激励函数的训练效果
+`对比报告.md` 中展示了两种不同激励函数的训练效果.
